@@ -26,24 +26,6 @@ The Digital Egypt Pioneers Initiative (DEPI) is a comprehensive 6-month training
 - Work with industry-standard tools and frameworks
 - Apply ML solutions to real-world problems using Azure ML
 
-## 📊 Projects
-
-### Task 3: Shopping Data Visualization
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Pcx-QSrwUYNjpImxwFMlpRe6Icn4nw7y?usp=sharing)
-
-Comprehensive analysis and visualization of shopping trends dataset (3,900 records, 18 features)
-
-**Skills**: Data visualization, statistical analysis, correlation analysis  
-**Tools**: pandas, matplotlib, seaborn  
-**Highlights**: 
-- Created scatter plots with regression lines and correlation heatmaps
-- Analyzed customer behavior patterns across demographics
-- Built interactive visualizations using multiple chart types
-
----
-
-*More projects will be added as I progress through the training...*
-
 ## 🛠️ Tech Stack
 
 **Languages**: Python  
