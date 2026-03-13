@@ -9,9 +9,10 @@ nltk.download('wordnet',   quiet=True)
 nltk.download('punkt',     quiet=True)
 nltk.download('punkt_tab', quiet=True)
 
-# Load models
-vectorizer = joblib.load('vectorizer.pkl')
-model      = joblib.load('model.pkl')
+import os
+BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
+vectorizer = joblib.load(os.path.join(BASE_DIR, 'vectorizer.pkl'))
+model      = joblib.load(os.path.join(BASE_DIR, 'model.pkl'))
 
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
