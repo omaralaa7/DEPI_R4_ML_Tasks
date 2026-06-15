@@ -95,7 +95,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Omar Alaa**
-- GitHub: [@omarator2004](https://github.com/omarator2004)
+- GitHub: [@omaralaa7](https://github.com/omaralaa7)
 - Project: DEPI ML Engineer Track — NLP Workshop
 
 ---
