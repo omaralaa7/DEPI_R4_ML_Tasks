@@ -67,7 +67,7 @@ Spam_Detection/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/omarator2004/DEPI_R4_ML_Tasks.git
+git clone https://github.com/omaralaa7/DEPI_R4_ML_Tasks.git
 cd DEPI_R4_ML_Tasks/Spam_Detection
 ```
 
